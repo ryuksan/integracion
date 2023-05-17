@@ -1,2 +1,2 @@
 # ryckandmorty
-Creación del proyecto integrador de Henry
+integracon de compa;eros
